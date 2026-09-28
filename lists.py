@@ -25,7 +25,7 @@ print(lista)
 ordinata = lista.sorted() # Altra funzone, restituisce una nuova lista, ordinata
 
 # Estrazione sotto-liste, come per le stringhe
-
+#ciao
 stringa = "La mia stringa"
 sottostringa = stringa[0 : 4]
 
